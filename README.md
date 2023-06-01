@@ -1,11 +1,19 @@
-### Hi there 👋, my name is Josh
+### Hmy name is Josh
 #### Software engineer specialised in Frontend engineering
 ![Software engineer specialised in Frontend engineering](https://pbs.twimg.com/profile_banners/1618488400486465536/1685613630/600x200)
 
 I'm josh who's aspiring  to be a frontend developer. I really enjoy creating Websites that easy to use and are user friendly to user's
 
-
-Skills:  REACT / JS / HTML / CSS/C language/python/SQL/Bash-scripting/TypeScript
+Skills:  
+REACT 
+JS 
+HTML 
+CSS/ 
+C language
+python
+SQL
+Bash-scripting
+TypeScript
 
 - 👯 I’m looking to collaborate on more projects. 
 
