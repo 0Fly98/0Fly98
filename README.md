@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Aspiring Frontend Developer</h3>
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **lundujosh97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0fly98&show_icons=true&locale=en&layout=compact" alt="0fly98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0fly98&show_icons=true&locale=en" alt="0fly98" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0fly98&" alt="0fly98" /></p>
