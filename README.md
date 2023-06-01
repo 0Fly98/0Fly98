@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">Aspiring Frontend Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0fly98&label=Profile%20views&color=0e75b6&style=flat" alt="0fly98" /> </p>
+
 <p align="left"> <a href="https://twitter.com/@joshua_lundu" target="blank"><img src="https://img.shields.io/twitter/follow/@joshua_lundu?logo=twitter&style=for-the-badge" alt="@joshua_lundu" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **c language, python...**
 
 - 📫 How to reach me **lundujosh97@gmail.com**
 
