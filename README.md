@@ -26,4 +26,6 @@
 
 ![shots (2)](https://github.com/0Fly98/0Fly98/assets/122810726/8b3d8028-4240-4362-bb49-a5a65035f298)
 
+<h3>intro section</h3>
 
+![desktop-design](https://github.com/0Fly98/0Fly98/assets/122810726/58516f17-b92d-4c3d-90f8-ab563d653a1f)
