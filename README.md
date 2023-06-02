@@ -19,7 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0fly98&show_icons=true&locale=en" alt="0fly98" /></p>
 
 <h2>Examples of work</h2>
-h3>VR land-page </h3>
+
   ![kjhkij](https://github.com/0Fly98/0Fly98/assets/122810726/17d9469f-b814-4cb2-be13-3da788190b7d)
 
 <h3>Login website</h3>
