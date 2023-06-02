@@ -24,5 +24,6 @@
 
 <h3>Login website</h3>
 
-![shot](https://github.com/0Fly98/0Fly98/assets/122810726/1f5505ec-4c6b-4186-96f8-756e9a0c2b80)
+![shots (2)](https://github.com/0Fly98/0Fly98/assets/122810726/8b3d8028-4240-4362-bb49-a5a65035f298)
+
 
