@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">Software engineer, Frontend Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/@joshua_lundu" target="blank"><img src="https://img.shields.io/twitter/follow/@joshua_lundu?logo=twitter&style=for-the-badge" alt="@joshua_lundu" /></a> </p>
-
 - 🌱 I’m currently learning **c language, python...**
 
 - 📫 How to reach me **lundujosh97@gmail.com**
